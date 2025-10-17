@@ -2,7 +2,7 @@
 
 Clone do clássico *Flappy Bird*, feito em Python com **Pygame**. Controle seu pássaro, evite os canos e tente bater sua própria pontuação!
 
-![Tela Principal](docs/tela_principal.png)
+![Tela Principal](imgs/jogo.png)
 
 > Tela principal do jogo, com o pássaro pronto para voar.
 
